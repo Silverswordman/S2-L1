@@ -77,6 +77,14 @@ console.log(x);
 FirstName = "Silvestrini";
 console.log(FirstName);
 
+// variabile con const.
+
+const Surname = "Silvestrini";
+console.log(Surname);
+
+// const Surname="Silver"
+// console.log (Surname) SYNTAXERROR
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
